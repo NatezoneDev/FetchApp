@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_x_small">4dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="radius">12dp</dimen>
+    <dimen name="spacer_height">8dp</dimen>
+    <dimen name="list_vertical_spacing">12dp</dimen>
+
+</resources>

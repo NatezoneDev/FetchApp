@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fetch</string>
+
+    <string name="unnamed">Unnamed</string>
+    <string name="error_value">Error: %s</string>
+    <string name="list_id_value">List ID: %s</string>
+    <string name="something_went_wrong">Something went wrong, please try again later</string>
+</resources>
